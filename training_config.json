@@ -1,0 +1,14 @@
+{
+    "vocab_size": 345,
+    "context_size": 5,
+    "embedding_dim": 32,
+    "epochs": 100,
+    "batch_size": 32,
+    "learning_rate": 0.001,
+    "final_cost": 0.6368180665152399,
+    "final_accuracy": 79.85639433339801,
+    "datasets": [
+        "matematicas_dataset_completo.txt"
+    ],
+    "number_of_examples": 5153
+}
