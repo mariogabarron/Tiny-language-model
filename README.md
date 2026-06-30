@@ -1,6 +1,6 @@
 <div align="center">
 
-![Tiny Language Model banner](assets/tlm_banner.png)
+![Tiny Language Model banner](assets/banner.png)
 
 # Tiny Language Model (TLM)
 
