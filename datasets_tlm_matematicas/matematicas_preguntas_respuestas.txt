@@ -1,0 +1,17 @@
+pregunta que es una suma respuesta una suma es una operacion que combina cantidades.
+pregunta que es una resta respuesta una resta calcula la diferencia entre cantidades.
+pregunta que es una multiplicacion respuesta una multiplicacion representa una suma repetida.
+pregunta que es una division respuesta una division reparte una cantidad en partes iguales.
+pregunta que es una fraccion respuesta una fraccion representa partes de una unidad.
+pregunta que es una variable respuesta una variable representa una cantidad desconocida o cambiante.
+pregunta que es una ecuacion respuesta una ecuacion es una igualdad con incognitas.
+pregunta que es un polinomio respuesta un polinomio es una suma de monomios.
+pregunta que es una funcion respuesta una funcion asigna a cada entrada una unica salida.
+pregunta que es un limite respuesta un limite estudia el comportamiento cerca de un punto.
+pregunta que es una derivada respuesta una derivada mide el cambio instantaneo.
+pregunta que es una integral respuesta una integral mide acumulacion o area orientada.
+pregunta que es una matriz respuesta una matriz es una tabla rectangular de numeros.
+pregunta que es un vector respuesta un vector tiene direccion sentido y modulo.
+pregunta que es la probabilidad respuesta la probabilidad mide la posibilidad de un suceso.
+pregunta que es la media respuesta la media resume datos mediante un valor central.
+pregunta que es la varianza respuesta la varianza mide dispersion respecto a la media.

@@ -1,0 +1,96 @@
+en matematicas el concepto de variable es importante.
+el concepto de variable representa una cantidad desconocida.
+ademas variable puede cambiar de valor.
+para entender variable conviene estudiar ejemplos sencillos.
+un ejercicio de variable requiere identificar datos operaciones y resultado.
+la idea de variable aparece en el tema de algebra.
+si el problema menciona variable hay que leer con cuidado el enunciado.
+explicar variable con palabras claras ayuda a resolver problemas.
+en matematicas el concepto de ecuacion es importante.
+el concepto de ecuacion es una igualdad con incognitas.
+ademas ecuacion se resuelve buscando valores.
+para entender ecuacion conviene estudiar ejemplos sencillos.
+un ejercicio de ecuacion requiere identificar datos operaciones y resultado.
+la idea de ecuacion aparece en el tema de algebra.
+si el problema menciona ecuacion hay que leer con cuidado el enunciado.
+explicar ecuacion con palabras claras ayuda a resolver problemas.
+en matematicas el concepto de ecuacion lineal es importante.
+el concepto de ecuacion lineal tiene grado uno.
+ademas ecuacion lineal su grafica es una recta.
+para entender ecuacion lineal conviene estudiar ejemplos sencillos.
+un ejercicio de ecuacion lineal requiere identificar datos operaciones y resultado.
+la idea de ecuacion lineal aparece en el tema de algebra.
+si el problema menciona ecuacion lineal hay que leer con cuidado el enunciado.
+explicar ecuacion lineal con palabras claras ayuda a resolver problemas.
+en matematicas el concepto de ecuacion cuadratica es importante.
+el concepto de ecuacion cuadratica tiene grado dos.
+ademas ecuacion cuadratica puede tener dos soluciones reales.
+para entender ecuacion cuadratica conviene estudiar ejemplos sencillos.
+un ejercicio de ecuacion cuadratica requiere identificar datos operaciones y resultado.
+la idea de ecuacion cuadratica aparece en el tema de algebra.
+si el problema menciona ecuacion cuadratica hay que leer con cuidado el enunciado.
+explicar ecuacion cuadratica con palabras claras ayuda a resolver problemas.
+en matematicas el concepto de discriminante es importante.
+el concepto de discriminante estudia soluciones cuadraticas.
+ademas discriminante depende de los coeficientes.
+para entender discriminante conviene estudiar ejemplos sencillos.
+un ejercicio de discriminante requiere identificar datos operaciones y resultado.
+la idea de discriminante aparece en el tema de algebra.
+si el problema menciona discriminante hay que leer con cuidado el enunciado.
+explicar discriminante con palabras claras ayuda a resolver problemas.
+en matematicas el concepto de polinomio es importante.
+el concepto de polinomio es una suma de monomios.
+ademas polinomio tiene grado.
+para entender polinomio conviene estudiar ejemplos sencillos.
+un ejercicio de polinomio requiere identificar datos operaciones y resultado.
+la idea de polinomio aparece en el tema de algebra.
+si el problema menciona polinomio hay que leer con cuidado el enunciado.
+explicar polinomio con palabras claras ayuda a resolver problemas.
+en matematicas el concepto de monomio es importante.
+el concepto de monomio contiene coeficiente y parte literal.
+ademas monomio forma parte de un polinomio.
+para entender monomio conviene estudiar ejemplos sencillos.
+un ejercicio de monomio requiere identificar datos operaciones y resultado.
+la idea de monomio aparece en el tema de algebra.
+si el problema menciona monomio hay que leer con cuidado el enunciado.
+explicar monomio con palabras claras ayuda a resolver problemas.
+en matematicas el concepto de factorizacion es importante.
+el concepto de factorizacion escribe expresiones como productos.
+ademas factorizacion ayuda a simplificar.
+para entender factorizacion conviene estudiar ejemplos sencillos.
+un ejercicio de factorizacion requiere identificar datos operaciones y resultado.
+la idea de factorizacion aparece en el tema de algebra.
+si el problema menciona factorizacion hay que leer con cuidado el enunciado.
+explicar factorizacion con palabras claras ayuda a resolver problemas.
+en matematicas el concepto de identidad algebraica es importante.
+el concepto de identidad algebraica es una igualdad siempre verdadera.
+ademas identidad algebraica sirve para transformar expresiones.
+para entender identidad algebraica conviene estudiar ejemplos sencillos.
+un ejercicio de identidad algebraica requiere identificar datos operaciones y resultado.
+la idea de identidad algebraica aparece en el tema de algebra.
+si el problema menciona identidad algebraica hay que leer con cuidado el enunciado.
+explicar identidad algebraica con palabras claras ayuda a resolver problemas.
+en matematicas el concepto de sistema de ecuaciones es importante.
+el concepto de sistema de ecuaciones contiene varias ecuaciones.
+ademas sistema de ecuaciones busca valores comunes.
+para entender sistema de ecuaciones conviene estudiar ejemplos sencillos.
+un ejercicio de sistema de ecuaciones requiere identificar datos operaciones y resultado.
+la idea de sistema de ecuaciones aparece en el tema de algebra.
+si el problema menciona sistema de ecuaciones hay que leer con cuidado el enunciado.
+explicar sistema de ecuaciones con palabras claras ayuda a resolver problemas.
+en matematicas el concepto de inecuacion es importante.
+el concepto de inecuacion expresa una desigualdad.
+ademas inecuacion su solucion suele ser un intervalo.
+para entender inecuacion conviene estudiar ejemplos sencillos.
+un ejercicio de inecuacion requiere identificar datos operaciones y resultado.
+la idea de inecuacion aparece en el tema de algebra.
+si el problema menciona inecuacion hay que leer con cuidado el enunciado.
+explicar inecuacion con palabras claras ayuda a resolver problemas.
+en matematicas el concepto de funcion racional es importante.
+el concepto de funcion racional es cociente de polinomios.
+ademas funcion racional puede tener restricciones de dominio.
+para entender funcion racional conviene estudiar ejemplos sencillos.
+un ejercicio de funcion racional requiere identificar datos operaciones y resultado.
+la idea de funcion racional aparece en el tema de algebra.
+si el problema menciona funcion racional hay que leer con cuidado el enunciado.
+explicar funcion racional con palabras claras ayuda a resolver problemas.

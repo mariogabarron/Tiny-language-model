@@ -1,0 +1,96 @@
+en matematicas el concepto de vector es importante.
+el concepto de vector tiene direccion sentido y modulo.
+ademas vector puede representarse con coordenadas.
+para entender vector conviene estudiar ejemplos sencillos.
+un ejercicio de vector requiere identificar datos operaciones y resultado.
+la idea de vector aparece en el tema de lineal_matrices.
+si el problema menciona vector hay que leer con cuidado el enunciado.
+explicar vector con palabras claras ayuda a resolver problemas.
+en matematicas el concepto de espacio vectorial es importante.
+el concepto de espacio vectorial contiene vectores.
+ademas espacio vectorial permite suma y producto por escalares.
+para entender espacio vectorial conviene estudiar ejemplos sencillos.
+un ejercicio de espacio vectorial requiere identificar datos operaciones y resultado.
+la idea de espacio vectorial aparece en el tema de lineal_matrices.
+si el problema menciona espacio vectorial hay que leer con cuidado el enunciado.
+explicar espacio vectorial con palabras claras ayuda a resolver problemas.
+en matematicas el concepto de subespacio es importante.
+el concepto de subespacio es cerrado por suma y escalares.
+ademas subespacio contiene al vector cero.
+para entender subespacio conviene estudiar ejemplos sencillos.
+un ejercicio de subespacio requiere identificar datos operaciones y resultado.
+la idea de subespacio aparece en el tema de lineal_matrices.
+si el problema menciona subespacio hay que leer con cuidado el enunciado.
+explicar subespacio con palabras claras ayuda a resolver problemas.
+en matematicas el concepto de base es importante.
+el concepto de base genera todo el espacio.
+ademas base tiene vectores independientes.
+para entender base conviene estudiar ejemplos sencillos.
+un ejercicio de base requiere identificar datos operaciones y resultado.
+la idea de base aparece en el tema de lineal_matrices.
+si el problema menciona base hay que leer con cuidado el enunciado.
+explicar base con palabras claras ayuda a resolver problemas.
+en matematicas el concepto de dimension es importante.
+el concepto de dimension cuenta vectores de una base.
+ademas dimension mide el tamaño algebraico del espacio.
+para entender dimension conviene estudiar ejemplos sencillos.
+un ejercicio de dimension requiere identificar datos operaciones y resultado.
+la idea de dimension aparece en el tema de lineal_matrices.
+si el problema menciona dimension hay que leer con cuidado el enunciado.
+explicar dimension con palabras claras ayuda a resolver problemas.
+en matematicas el concepto de matriz es importante.
+el concepto de matriz es una tabla de numeros.
+ademas matriz tiene filas y columnas.
+para entender matriz conviene estudiar ejemplos sencillos.
+un ejercicio de matriz requiere identificar datos operaciones y resultado.
+la idea de matriz aparece en el tema de lineal_matrices.
+si el problema menciona matriz hay que leer con cuidado el enunciado.
+explicar matriz con palabras claras ayuda a resolver problemas.
+en matematicas el concepto de determinante es importante.
+el concepto de determinante da informacion sobre matrices cuadradas.
+ademas determinante indica invertibilidad.
+para entender determinante conviene estudiar ejemplos sencillos.
+un ejercicio de determinante requiere identificar datos operaciones y resultado.
+la idea de determinante aparece en el tema de lineal_matrices.
+si el problema menciona determinante hay que leer con cuidado el enunciado.
+explicar determinante con palabras claras ayuda a resolver problemas.
+en matematicas el concepto de rango es importante.
+el concepto de rango mide independencia de filas o columnas.
+ademas rango ayuda a resolver sistemas.
+para entender rango conviene estudiar ejemplos sencillos.
+un ejercicio de rango requiere identificar datos operaciones y resultado.
+la idea de rango aparece en el tema de lineal_matrices.
+si el problema menciona rango hay que leer con cuidado el enunciado.
+explicar rango con palabras claras ayuda a resolver problemas.
+en matematicas el concepto de autovalor es importante.
+el concepto de autovalor escala un autovector.
+ademas autovalor aparece en diagonalizacion.
+para entender autovalor conviene estudiar ejemplos sencillos.
+un ejercicio de autovalor requiere identificar datos operaciones y resultado.
+la idea de autovalor aparece en el tema de lineal_matrices.
+si el problema menciona autovalor hay que leer con cuidado el enunciado.
+explicar autovalor con palabras claras ayuda a resolver problemas.
+en matematicas el concepto de autovector es importante.
+el concepto de autovector mantiene direccion bajo una matriz.
+ademas autovector se asocia a un autovalor.
+para entender autovector conviene estudiar ejemplos sencillos.
+un ejercicio de autovector requiere identificar datos operaciones y resultado.
+la idea de autovector aparece en el tema de lineal_matrices.
+si el problema menciona autovector hay que leer con cuidado el enunciado.
+explicar autovector con palabras claras ayuda a resolver problemas.
+en matematicas el concepto de producto escalar es importante.
+el concepto de producto escalar mide relacion angular.
+ademas producto escalar detecta ortogonalidad.
+para entender producto escalar conviene estudiar ejemplos sencillos.
+un ejercicio de producto escalar requiere identificar datos operaciones y resultado.
+la idea de producto escalar aparece en el tema de lineal_matrices.
+si el problema menciona producto escalar hay que leer con cuidado el enunciado.
+explicar producto escalar con palabras claras ayuda a resolver problemas.
+en matematicas el concepto de norma es importante.
+el concepto de norma mide longitud.
+ademas norma permite definir distancia.
+para entender norma conviene estudiar ejemplos sencillos.
+un ejercicio de norma requiere identificar datos operaciones y resultado.
+la idea de norma aparece en el tema de lineal_matrices.
+si el problema menciona norma hay que leer con cuidado el enunciado.
+explicar norma con palabras claras ayuda a resolver problemas.

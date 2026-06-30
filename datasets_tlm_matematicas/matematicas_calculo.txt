@@ -1,0 +1,96 @@
+en matematicas el concepto de funcion es importante.
+el concepto de funcion asigna a cada entrada una unica salida.
+ademas funcion tiene dominio e imagen.
+para entender funcion conviene estudiar ejemplos sencillos.
+un ejercicio de funcion requiere identificar datos operaciones y resultado.
+la idea de funcion aparece en el tema de calculo.
+si el problema menciona funcion hay que leer con cuidado el enunciado.
+explicar funcion con palabras claras ayuda a resolver problemas.
+en matematicas el concepto de limite es importante.
+el concepto de limite estudia el comportamiento cerca de un punto.
+ademas limite puede existir sin valor de la funcion.
+para entender limite conviene estudiar ejemplos sencillos.
+un ejercicio de limite requiere identificar datos operaciones y resultado.
+la idea de limite aparece en el tema de calculo.
+si el problema menciona limite hay que leer con cuidado el enunciado.
+explicar limite con palabras claras ayuda a resolver problemas.
+en matematicas el concepto de continuidad es importante.
+el concepto de continuidad significa ausencia de saltos.
+ademas continuidad relaciona limite y valor.
+para entender continuidad conviene estudiar ejemplos sencillos.
+un ejercicio de continuidad requiere identificar datos operaciones y resultado.
+la idea de continuidad aparece en el tema de calculo.
+si el problema menciona continuidad hay que leer con cuidado el enunciado.
+explicar continuidad con palabras claras ayuda a resolver problemas.
+en matematicas el concepto de derivada es importante.
+el concepto de derivada mide el cambio instantaneo.
+ademas derivada se interpreta como pendiente local.
+para entender derivada conviene estudiar ejemplos sencillos.
+un ejercicio de derivada requiere identificar datos operaciones y resultado.
+la idea de derivada aparece en el tema de calculo.
+si el problema menciona derivada hay que leer con cuidado el enunciado.
+explicar derivada con palabras claras ayuda a resolver problemas.
+en matematicas el concepto de segunda derivada es importante.
+el concepto de segunda derivada mide curvatura.
+ademas segunda derivada ayuda a estudiar concavidad.
+para entender segunda derivada conviene estudiar ejemplos sencillos.
+un ejercicio de segunda derivada requiere identificar datos operaciones y resultado.
+la idea de segunda derivada aparece en el tema de calculo.
+si el problema menciona segunda derivada hay que leer con cuidado el enunciado.
+explicar segunda derivada con palabras claras ayuda a resolver problemas.
+en matematicas el concepto de regla de la cadena es importante.
+el concepto de regla de la cadena deriva composiciones.
+ademas regla de la cadena multiplica derivadas encadenadas.
+para entender regla de la cadena conviene estudiar ejemplos sencillos.
+un ejercicio de regla de la cadena requiere identificar datos operaciones y resultado.
+la idea de regla de la cadena aparece en el tema de calculo.
+si el problema menciona regla de la cadena hay que leer con cuidado el enunciado.
+explicar regla de la cadena con palabras claras ayuda a resolver problemas.
+en matematicas el concepto de integral es importante.
+el concepto de integral mide acumulacion.
+ademas integral puede representar area orientada.
+para entender integral conviene estudiar ejemplos sencillos.
+un ejercicio de integral requiere identificar datos operaciones y resultado.
+la idea de integral aparece en el tema de calculo.
+si el problema menciona integral hay que leer con cuidado el enunciado.
+explicar integral con palabras claras ayuda a resolver problemas.
+en matematicas el concepto de primitiva es importante.
+el concepto de primitiva es una funcion cuya derivada es otra.
+ademas primitiva aparece en integrales indefinidas.
+para entender primitiva conviene estudiar ejemplos sencillos.
+un ejercicio de primitiva requiere identificar datos operaciones y resultado.
+la idea de primitiva aparece en el tema de calculo.
+si el problema menciona primitiva hay que leer con cuidado el enunciado.
+explicar primitiva con palabras claras ayuda a resolver problemas.
+en matematicas el concepto de sucesion es importante.
+el concepto de sucesion es una lista ordenada de numeros.
+ademas sucesion puede converger.
+para entender sucesion conviene estudiar ejemplos sencillos.
+un ejercicio de sucesion requiere identificar datos operaciones y resultado.
+la idea de sucesion aparece en el tema de calculo.
+si el problema menciona sucesion hay que leer con cuidado el enunciado.
+explicar sucesion con palabras claras ayuda a resolver problemas.
+en matematicas el concepto de serie es importante.
+el concepto de serie suma terminos de una sucesion.
+ademas serie puede ser convergente o divergente.
+para entender serie conviene estudiar ejemplos sencillos.
+un ejercicio de serie requiere identificar datos operaciones y resultado.
+la idea de serie aparece en el tema de calculo.
+si el problema menciona serie hay que leer con cuidado el enunciado.
+explicar serie con palabras claras ayuda a resolver problemas.
+en matematicas el concepto de taylor es importante.
+el concepto de taylor aproxima funciones con polinomios.
+ademas taylor usa derivadas sucesivas.
+para entender taylor conviene estudiar ejemplos sencillos.
+un ejercicio de taylor requiere identificar datos operaciones y resultado.
+la idea de taylor aparece en el tema de calculo.
+si el problema menciona taylor hay que leer con cuidado el enunciado.
+explicar taylor con palabras claras ayuda a resolver problemas.
+en matematicas el concepto de ecuacion diferencial es importante.
+el concepto de ecuacion diferencial relaciona funciones y derivadas.
+ademas ecuacion diferencial describe cambios dinamicos.
+para entender ecuacion diferencial conviene estudiar ejemplos sencillos.
+un ejercicio de ecuacion diferencial requiere identificar datos operaciones y resultado.
+la idea de ecuacion diferencial aparece en el tema de calculo.
+si el problema menciona ecuacion diferencial hay que leer con cuidado el enunciado.
+explicar ecuacion diferencial con palabras claras ayuda a resolver problemas.

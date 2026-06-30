@@ -1,0 +1,96 @@
+en matematicas el concepto de suma es importante.
+el concepto de suma combina dos numeros.
+ademas suma produce un resultado.
+para entender suma conviene estudiar ejemplos sencillos.
+un ejercicio de suma requiere identificar datos operaciones y resultado.
+la idea de suma aparece en el tema de aritmetica.
+si el problema menciona suma hay que leer con cuidado el enunciado.
+explicar suma con palabras claras ayuda a resolver problemas.
+en matematicas el concepto de resta es importante.
+el concepto de resta compara dos cantidades.
+ademas resta calcula una diferencia.
+para entender resta conviene estudiar ejemplos sencillos.
+un ejercicio de resta requiere identificar datos operaciones y resultado.
+la idea de resta aparece en el tema de aritmetica.
+si el problema menciona resta hay que leer con cuidado el enunciado.
+explicar resta con palabras claras ayuda a resolver problemas.
+en matematicas el concepto de multiplicacion es importante.
+el concepto de multiplicacion representa una suma repetida.
+ademas multiplicacion usa factores.
+para entender multiplicacion conviene estudiar ejemplos sencillos.
+un ejercicio de multiplicacion requiere identificar datos operaciones y resultado.
+la idea de multiplicacion aparece en el tema de aritmetica.
+si el problema menciona multiplicacion hay que leer con cuidado el enunciado.
+explicar multiplicacion con palabras claras ayuda a resolver problemas.
+en matematicas el concepto de division es importante.
+el concepto de division reparte una cantidad.
+ademas division produce un cociente.
+para entender division conviene estudiar ejemplos sencillos.
+un ejercicio de division requiere identificar datos operaciones y resultado.
+la idea de division aparece en el tema de aritmetica.
+si el problema menciona division hay que leer con cuidado el enunciado.
+explicar division con palabras claras ayuda a resolver problemas.
+en matematicas el concepto de fraccion es importante.
+el concepto de fraccion representa partes de una unidad.
+ademas fraccion tiene numerador y denominador.
+para entender fraccion conviene estudiar ejemplos sencillos.
+un ejercicio de fraccion requiere identificar datos operaciones y resultado.
+la idea de fraccion aparece en el tema de aritmetica.
+si el problema menciona fraccion hay que leer con cuidado el enunciado.
+explicar fraccion con palabras claras ayuda a resolver problemas.
+en matematicas el concepto de potencia es importante.
+el concepto de potencia representa una multiplicacion repetida.
+ademas potencia tiene base y exponente.
+para entender potencia conviene estudiar ejemplos sencillos.
+un ejercicio de potencia requiere identificar datos operaciones y resultado.
+la idea de potencia aparece en el tema de aritmetica.
+si el problema menciona potencia hay que leer con cuidado el enunciado.
+explicar potencia con palabras claras ayuda a resolver problemas.
+en matematicas el concepto de raiz cuadrada es importante.
+el concepto de raiz cuadrada busca un numero.
+ademas raiz cuadrada su cuadrado produce el radicando.
+para entender raiz cuadrada conviene estudiar ejemplos sencillos.
+un ejercicio de raiz cuadrada requiere identificar datos operaciones y resultado.
+la idea de raiz cuadrada aparece en el tema de aritmetica.
+si el problema menciona raiz cuadrada hay que leer con cuidado el enunciado.
+explicar raiz cuadrada con palabras claras ayuda a resolver problemas.
+en matematicas el concepto de numero primo es importante.
+el concepto de numero primo tiene exactamente dos divisores positivos.
+ademas numero primo uno y el mismo.
+para entender numero primo conviene estudiar ejemplos sencillos.
+un ejercicio de numero primo requiere identificar datos operaciones y resultado.
+la idea de numero primo aparece en el tema de aritmetica.
+si el problema menciona numero primo hay que leer con cuidado el enunciado.
+explicar numero primo con palabras claras ayuda a resolver problemas.
+en matematicas el concepto de maximo comun divisor es importante.
+el concepto de maximo comun divisor mide el mayor divisor comun.
+ademas maximo comun divisor sirve para simplificar fracciones.
+para entender maximo comun divisor conviene estudiar ejemplos sencillos.
+un ejercicio de maximo comun divisor requiere identificar datos operaciones y resultado.
+la idea de maximo comun divisor aparece en el tema de aritmetica.
+si el problema menciona maximo comun divisor hay que leer con cuidado el enunciado.
+explicar maximo comun divisor con palabras claras ayuda a resolver problemas.
+en matematicas el concepto de minimo comun multiplo es importante.
+el concepto de minimo comun multiplo mide el menor multiplo comun positivo.
+ademas minimo comun multiplo sirve para sumar fracciones.
+para entender minimo comun multiplo conviene estudiar ejemplos sencillos.
+un ejercicio de minimo comun multiplo requiere identificar datos operaciones y resultado.
+la idea de minimo comun multiplo aparece en el tema de aritmetica.
+si el problema menciona minimo comun multiplo hay que leer con cuidado el enunciado.
+explicar minimo comun multiplo con palabras claras ayuda a resolver problemas.
+en matematicas el concepto de valor absoluto es importante.
+el concepto de valor absoluto mide la distancia al cero.
+ademas valor absoluto siempre es no negativo.
+para entender valor absoluto conviene estudiar ejemplos sencillos.
+un ejercicio de valor absoluto requiere identificar datos operaciones y resultado.
+la idea de valor absoluto aparece en el tema de aritmetica.
+si el problema menciona valor absoluto hay que leer con cuidado el enunciado.
+explicar valor absoluto con palabras claras ayuda a resolver problemas.
+en matematicas el concepto de porcentaje es importante.
+el concepto de porcentaje expresa una proporcion sobre cien.
+ademas porcentaje se usa para comparar cantidades.
+para entender porcentaje conviene estudiar ejemplos sencillos.
+un ejercicio de porcentaje requiere identificar datos operaciones y resultado.
+la idea de porcentaje aparece en el tema de aritmetica.
+si el problema menciona porcentaje hay que leer con cuidado el enunciado.
+explicar porcentaje con palabras claras ayuda a resolver problemas.

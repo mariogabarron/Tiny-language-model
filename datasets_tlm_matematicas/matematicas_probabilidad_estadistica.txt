@@ -1,0 +1,96 @@
+en matematicas el concepto de probabilidad es importante.
+el concepto de probabilidad mide posibilidad de un suceso.
+ademas probabilidad toma valores entre cero y uno.
+para entender probabilidad conviene estudiar ejemplos sencillos.
+un ejercicio de probabilidad requiere identificar datos operaciones y resultado.
+la idea de probabilidad aparece en el tema de probabilidad_estadistica.
+si el problema menciona probabilidad hay que leer con cuidado el enunciado.
+explicar probabilidad con palabras claras ayuda a resolver problemas.
+en matematicas el concepto de espacio muestral es importante.
+el concepto de espacio muestral contiene resultados posibles.
+ademas espacio muestral pertenece a un experimento aleatorio.
+para entender espacio muestral conviene estudiar ejemplos sencillos.
+un ejercicio de espacio muestral requiere identificar datos operaciones y resultado.
+la idea de espacio muestral aparece en el tema de probabilidad_estadistica.
+si el problema menciona espacio muestral hay que leer con cuidado el enunciado.
+explicar espacio muestral con palabras claras ayuda a resolver problemas.
+en matematicas el concepto de suceso es importante.
+el concepto de suceso es un subconjunto del espacio muestral.
+ademas suceso puede tener probabilidad.
+para entender suceso conviene estudiar ejemplos sencillos.
+un ejercicio de suceso requiere identificar datos operaciones y resultado.
+la idea de suceso aparece en el tema de probabilidad_estadistica.
+si el problema menciona suceso hay que leer con cuidado el enunciado.
+explicar suceso con palabras claras ayuda a resolver problemas.
+en matematicas el concepto de probabilidad condicionada es importante.
+el concepto de probabilidad condicionada usa informacion previa.
+ademas probabilidad condicionada cambia el universo considerado.
+para entender probabilidad condicionada conviene estudiar ejemplos sencillos.
+un ejercicio de probabilidad condicionada requiere identificar datos operaciones y resultado.
+la idea de probabilidad condicionada aparece en el tema de probabilidad_estadistica.
+si el problema menciona probabilidad condicionada hay que leer con cuidado el enunciado.
+explicar probabilidad condicionada con palabras claras ayuda a resolver problemas.
+en matematicas el concepto de independencia es importante.
+el concepto de independencia significa que un suceso no cambia otro.
+ademas independencia simplifica calculos.
+para entender independencia conviene estudiar ejemplos sencillos.
+un ejercicio de independencia requiere identificar datos operaciones y resultado.
+la idea de independencia aparece en el tema de probabilidad_estadistica.
+si el problema menciona independencia hay que leer con cuidado el enunciado.
+explicar independencia con palabras claras ayuda a resolver problemas.
+en matematicas el concepto de bayes es importante.
+el concepto de bayes actualiza probabilidades.
+ademas bayes usa informacion nueva.
+para entender bayes conviene estudiar ejemplos sencillos.
+un ejercicio de bayes requiere identificar datos operaciones y resultado.
+la idea de bayes aparece en el tema de probabilidad_estadistica.
+si el problema menciona bayes hay que leer con cuidado el enunciado.
+explicar bayes con palabras claras ayuda a resolver problemas.
+en matematicas el concepto de variable aleatoria es importante.
+el concepto de variable aleatoria asigna numeros a resultados.
+ademas variable aleatoria puede ser discreta o continua.
+para entender variable aleatoria conviene estudiar ejemplos sencillos.
+un ejercicio de variable aleatoria requiere identificar datos operaciones y resultado.
+la idea de variable aleatoria aparece en el tema de probabilidad_estadistica.
+si el problema menciona variable aleatoria hay que leer con cuidado el enunciado.
+explicar variable aleatoria con palabras claras ayuda a resolver problemas.
+en matematicas el concepto de esperanza es importante.
+el concepto de esperanza mide valor medio teorico.
+ademas esperanza resume una distribucion.
+para entender esperanza conviene estudiar ejemplos sencillos.
+un ejercicio de esperanza requiere identificar datos operaciones y resultado.
+la idea de esperanza aparece en el tema de probabilidad_estadistica.
+si el problema menciona esperanza hay que leer con cuidado el enunciado.
+explicar esperanza con palabras claras ayuda a resolver problemas.
+en matematicas el concepto de varianza es importante.
+el concepto de varianza mide dispersion.
+ademas varianza usa desviaciones respecto a la media.
+para entender varianza conviene estudiar ejemplos sencillos.
+un ejercicio de varianza requiere identificar datos operaciones y resultado.
+la idea de varianza aparece en el tema de probabilidad_estadistica.
+si el problema menciona varianza hay que leer con cuidado el enunciado.
+explicar varianza con palabras claras ayuda a resolver problemas.
+en matematicas el concepto de media es importante.
+el concepto de media resume datos con un valor central.
+ademas media puede verse afectada por extremos.
+para entender media conviene estudiar ejemplos sencillos.
+un ejercicio de media requiere identificar datos operaciones y resultado.
+la idea de media aparece en el tema de probabilidad_estadistica.
+si el problema menciona media hay que leer con cuidado el enunciado.
+explicar media con palabras claras ayuda a resolver problemas.
+en matematicas el concepto de mediana es importante.
+el concepto de mediana divide datos ordenados.
+ademas mediana es robusta ante extremos.
+para entender mediana conviene estudiar ejemplos sencillos.
+un ejercicio de mediana requiere identificar datos operaciones y resultado.
+la idea de mediana aparece en el tema de probabilidad_estadistica.
+si el problema menciona mediana hay que leer con cuidado el enunciado.
+explicar mediana con palabras claras ayuda a resolver problemas.
+en matematicas el concepto de regresion lineal es importante.
+el concepto de regresion lineal ajusta una recta.
+ademas regresion lineal modela relacion entre variables.
+para entender regresion lineal conviene estudiar ejemplos sencillos.
+un ejercicio de regresion lineal requiere identificar datos operaciones y resultado.
+la idea de regresion lineal aparece en el tema de probabilidad_estadistica.
+si el problema menciona regresion lineal hay que leer con cuidado el enunciado.
+explicar regresion lineal con palabras claras ayuda a resolver problemas.
