@@ -1,12 +1,10 @@
 <div align="center">
 
-![Tiny Language Model banner](assets/banner.png)
-
 # Tiny Language Model (TLM)
 
 A small educational language model built in Python with PyTorch to understand how text can be transformed into numerical representations and used to predict the next word in a sequence.
 
-![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.14.0-blue?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-Neural%20Network-ee4c2c?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Tkinter](https://img.shields.io/badge/Interface-Tkinter-1f2937?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
@@ -29,9 +27,11 @@ la derivada de
 
 the model tries to predict the most likely next word according to the mathematical text dataset used during training.
 
-> **Note**  
-> This project is educational. It is intentionally small and interpretable, designed to make the internal structure of a language model understandable.
+> [!NOTE]
+> This is a personal educational project built to understand how language models work internally at a small scale, without relying on pre-trained models or external AI APIs.
+> The goal is not to build a production-ready chatbot, but to manually explore the core ideas behind tokenization, embeddings, context-based prediction, training and inference.
 
+![Tiny Language Model banner](assets/banner.png)
 ---
 
 ## Main Features
